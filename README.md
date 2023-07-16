@@ -49,4 +49,4 @@ This project is licensed under the terms of the MIT license.
 
 ## Contact
 
-For any queries, please feel free to reach out to us at `mostafa@email.com`.
+For any queries, please feel free to reach out to us at `mostafathemar@email.com`.
